@@ -1,14 +1,16 @@
 ## Olá sou o Ozéas
 
- Sou estudante de **ADS**.
+Sou estudante de **ADS**.
 
- Gosto de criar soluções, Já me aventurei com **Python** desenvolvendo pequenos softwares, o que me ajudou a entender melhor a lógica de programação. 💡
+Gosto de criar soluções, Já me aventurei com **Python** desenvolvendo pequenos softwares, o que me ajudou a entender melhor a lógica de programação. 💡
 
- Tenho interesse por tudo que envolve tecnologia: desenvolvimento, dados, automação, e inovação. Estou sempre estudando e buscando me atualizar. 📚 
+Tenho interesse por tudo que envolve tecnologia: desenvolvimento, dados, automação, e inovação. Estou sempre estudando e buscando me atualizar. 📚 
 
-<p style=color:#1e947e;"> 
 Tenho muita curiosidade em entender como as coisas funcionam.
-</p>
+
+<p style="color:blue;">Este texto está azul!</p>
+<p style="color:#FF5733;">Este texto está laranja avermelhado!</p>
+<p style="color:green;">Este texto está verde!</p>
 
 ---
 
