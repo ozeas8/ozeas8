@@ -7,11 +7,11 @@
 - Tenho muita curiosidade em entender como as coisas funcionam.
 
 ---
-
-<img src="https://www.svgrepo.com/show/445691/data-science.svg" alt="Data Science" width="60"/>
-
+<p align=center">
+<img
+src="https://www.svgrepo.com/show/445691/data-science.svg" alt="Data Science" width="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60"/>
-
+</p>
 ---
 
 <!--
