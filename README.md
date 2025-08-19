@@ -1,17 +1,14 @@
-## 👋 Olá! Eu sou Ozéas
+## Olá, Sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** em Parauapebas–PA, apaixonado por tecnologia e movido pela curiosidade de entender como as coisas funcionam — desde o hardware até a lógica por trás dos softwares.
+- Gosto de criar soluções, Já me aventurei com **Python** desenvolvendo pequenos softwares, o que me ajudou a entender melhor a lógica de programação. 💡
 
-💡 Gosto de criar soluções que façam sentido e tragam impacto. Já me aventurei com **Python** desenvolvendo pequenos softwares, o que me ajudou a compreender melhor a lógica de programação e os fundamentos da computação.
+- Tenho interesse por tudo que envolve tecnologia: desenvolvimento, dados, automação, e inovação. Estou sempre estudando e buscando me atualizar. 📚 
 
-🔧 Tenho interesse por tudo que envolve tecnologia: desenvolvimento, dados, automação, e inovação. Estou sempre estudando e buscando me atualizar com as tendências do mundo tech.
-
-📚 Acredito que aprender é um processo contínuo — e compartilhar conhecimento é parte dele. Este espaço é onde registro minha evolução, projetos e ideias.
+- Tenho muita curiosidade em entender como as coisas funcionam.
 
 ---
 
 <img src="https://www.svgrepo.com/show/445691/data-science.svg" alt="Data Science" width="60"/>
-
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60"/>
 
