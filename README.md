@@ -1,10 +1,15 @@
 ## Olá sou o Ozéas
 
-Sou estudante de **ADS**.
+- 25 anos de idade
+
+- Sou de Parauapebas - Pará 
+
 
 💡 Gosto de criar soluções, Já me aventurei com **Python** desenvolvendo pequenos softwares, o que me ajudou a entender melhor a lógica de programação.
 
-Tenho interesse por tudo que envolve tecnologia: desenvolvimento, dados, automação, e inovação.
+Tenho interesse por tudo que envolve tecnologia: desenvolvimento, dados, automação.
+
+- Artista e animador 2D digital.
 
 📚 Estou sempre estudando e buscando me atualizar.  
 
