@@ -1,4 +1,9 @@
-## Olá, Sou estudante de **Análise e Desenvolvimento de Sistemas**.
+<p style=color:#1e947e;"> 
+## Olá!
+</p> 
+
+
+- Sou estudante de **ADS**.
 
 - Gosto de criar soluções, Já me aventurei com **Python** desenvolvendo pequenos softwares, o que me ajudou a entender melhor a lógica de programação. 💡
 
