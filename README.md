@@ -1,11 +1,8 @@
 ## Olá sou o Ozéas
 
----
-
 📚
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend e redes. Atualmente em formação, 
-Interesse em linguagens como Python, JavaScript, Estudando para a certificação Cisco CCNA 200-301 
-Tenho fundamentos em Arte e Animação 2D digital.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend e redes. 
+Atualmente em formação, Interesse em linguagens como Python, JavaScript, Estudando para a certificação Cisco CCNA 200-301.
 
 ---
 
