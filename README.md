@@ -14,7 +14,13 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ozéas-silva-3b590b37b">
+  <a href="https://www.linkedin.com/in/ozéas-silva-3b50b037b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+<p align="center">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ozéas-silva-3b50b037b)
   </a>
 </p>
