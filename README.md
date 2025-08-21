@@ -1,19 +1,8 @@
-## Olá sou o Ozéas
-
-- 25 anos de idade
-
-- Sou de Parauapebas - Pará 
-
-
-💡 Gosto de criar soluções, Já me aventurei com **Python** desenvolvendo pequenos softwares, o que me ajudou a entender melhor a lógica de programação.
-
-Tenho interesse por tudo que envolve tecnologia: desenvolvimento, dados, automação.
+- Estudante de ADS e futuro certificado Cisco CCNA 200-301, Aberto a aprender e crescer profissionalmente
 
 - Artista e animador 2D digital.
 
-📚 Estou sempre estudando e buscando me atualizar.  
-
-Tenho muita curiosidade em entender como as coisas funcionam.
+📚 Tenho interesse por tudo que envolve tecnologia e estou sempre estudando e buscando me atualizar.
 
 ---
 
