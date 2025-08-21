@@ -23,6 +23,9 @@
 
 ---
 
-![Lápis 3D Girando](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk2eHUxcWNuNzN5bWx0ZWJ5ZHVoYml4dDF0MmhxdGRvazJ1bnh1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44QumBtrDajNwEfe/giphy.gif)
-
-![code and backend area](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21mb3I3cGpoYjIxcnNkNW12b2V3NzdhYTAyd2k2NG0yMDVycGFnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif)
+<table>
+  <tr>
+    <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk2eHUxclNuWnNZ5bWQzN7J5ZHV0Ym14dDF0WmhxdGRvazJ1bn1NSZ1cD12W9pbnR1cm5hbFZfY1laW0mY309Zw/1440umBtrDajNwEfe/giphy.gif" width="200"/></td>
+    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExV21mb3T3cGpoYj1xcxNklN1b2V3N2dhVTAyd2k2NG9yWDVyCGfnZi1iC12W9pbnR1cm5hbFZfY1laW0mY309Zw/KGhPQ5NWoNKQurLHwI/giphy.gif" width="200"/></td>
+  </tr>
+</table>
