@@ -2,12 +2,11 @@
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas. 
 - 📚 Estudando para certificação Cisco CCNA 200-301.
-- 🎨 Tenho habilidades com Design.
-- 🎨 Tenho fundamentos em Arte e Animação 2D digital.
 
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
