@@ -15,10 +15,10 @@
 
 ## Contato
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/oo_ozi)
-[![X.com](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oozea_s)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/oo_ozi) |
+[![X.com](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oozea_s) |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ozéas-silva-3b50b037b)
 
 ---
 
-| ![Lápis 3D Girando](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk2eHUxcWNuNzN5bWx0ZWJ5ZHVoYml4dDF0MmhxdGRvazJ1bnh1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44QumBtrDajNwEfe/giphy.gif) |
+![Lápis 3D Girando](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk2eHUxcWNuNzN5bWx0ZWJ5ZHVoYml4dDF0MmhxdGRvazJ1bnh1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44QumBtrDajNwEfe/giphy.gif)
