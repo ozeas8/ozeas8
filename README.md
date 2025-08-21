@@ -8,8 +8,6 @@
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
 
 ---
 
@@ -19,8 +17,3 @@
   </a>
 </p>
 
----
-<p align="center">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ozéas-silva-3b50b037b)
-  </a>
-</p>
