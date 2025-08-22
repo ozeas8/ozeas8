@@ -15,5 +15,5 @@ contato:
 </a>
 
 <a href="https://discord.com/users/oo_ozi" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" alt="Discord" width="40" height="40"/>
 </a>
