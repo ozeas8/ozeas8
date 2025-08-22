@@ -5,7 +5,7 @@ Tenho curiosidade em entender como as coisas funcionam por trás das telas. Gost
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>(www.linkedin.com/in/ozéas-silva-3b50b037b)
 </a>
 
 
