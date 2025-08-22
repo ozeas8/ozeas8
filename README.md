@@ -5,7 +5,8 @@ Tenho curiosidade em entender como as coisas funcionam por trás das telas. Gost
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>(www.linkedin.com/in/ozéas-silva-3b50b037b)
+<a href="https://www.linkedin.com/in/ozéas-silva-3b50b037b" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 </a>
-
 
